@@ -1,0 +1,32 @@
+body{
+margin:350px;
+justify-content: center;
+align-items: center;
+
+
+}
+button{
+  width: 150px;
+  height: 100%;
+  font-size: 25px;
+margin-top: 24px;
+text-align: center;
+
+}
+
+
+form{
+font-family: 'Times New Roman', Times, serif;
+font-size:50px;
+font-weight:bold;
+margin-bottom: 20px;
+display: flex;
+align-items: center;
+
+}
+
+.form-container{
+font-size: 22px;
+font-family: 'Times New Roman', Times, serif;
+
+}
